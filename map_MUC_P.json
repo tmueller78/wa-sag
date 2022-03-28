@@ -78,7 +78,23 @@
          "draworder":"topdown",
          "id":2,
          "name":"floorLayer",
-         "objects":[],
+         "objects":[
+                {
+                 "height":19,
+                 "id":20,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "text":"Ruhezone",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":72,
+                 "x":999.239053614472,
+                 "y":649.027064660317
+                }],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
@@ -86,7 +102,7 @@
          "y":0
         }],
  "nextlayerid":49,
- "nextobjectid":13,
+ "nextobjectid":21,
  "orientation":"orthogonal",
  "properties":[
         {
